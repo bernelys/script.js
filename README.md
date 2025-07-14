@@ -1,4 +1,3 @@
-# script.js
 // Configuración de materias con sus requisitos:
 const materias = [
     { codigo: "GEV-001", nombre: "Gestión del Entorno de Aprendizaje", prereq: [] },
